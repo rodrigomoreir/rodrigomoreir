@@ -1,3 +1,5 @@
+<img width="auto" src="https://github.com/rodrigomoreir/rodrigomoreir/blob/main/developer-guide-blog-2.png" />
+
 # Hi there, my name is Rodrigo Moreira 😁
 
 Sou Desenvolvedor Mobile e utilizo o React Native! 
