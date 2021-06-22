@@ -6,7 +6,7 @@ Sou Desenvolvedor Mobile e utilizo o React Native!
 Muito interessado em aprender e
 Fascinado por desafios. :computer:
 
- :rocket:  &nbsp; Estou trabalhando na **Popcode Mobile Solutions**
+ :rocket:  &nbsp; Estou trabalhando na **ioasys**
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Frontend utilizando React Native
  <br/> :computer: &nbsp; Minha Stack: ReactJS, Node.js, React Native & Typescript
  <br/> 💬  &nbsp; Sobre mim: Apaixonado por tecnologias, games, animes, filmes e seriados!
