@@ -2,13 +2,13 @@
 
 # Hi there, my name is Rodrigo Moreira 😁
 
-Sou Desenvolvedor Mobile e utilizo o React Native! 
+Sou Desenvolvedor Mobile e utilizo o React Native e Swift (iOS)! 
 Muito interessado em aprender e
 Fascinado por desafios. :computer:
 
- :rocket:  &nbsp; Estou trabalhando na **ioasys**
- <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Frontend utilizando React Native
- <br/> :computer: &nbsp; Minha Stack: ReactJS, Node.js, React Native & Typescript
+ :rocket:  &nbsp; Estou trabalhando na **ioasys** como Desenvolvedor React Native
+ <br/> :purple_heart: &nbsp; Buscando colaborar com projetos Mobile utilizando React Native e Swift (iOS).
+ <br/> :computer: &nbsp; Minha Stack: ReactJS, Node.js, React Native & Swift (iOS).
  <br/> 💬  &nbsp; Sobre mim: Apaixonado por tecnologias, games, animes, filmes e seriados!
  <br/> :email: &nbsp; Para falar comigo:
  
