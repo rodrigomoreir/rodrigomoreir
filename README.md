@@ -1,4 +1,4 @@
-<img width="auto" src="https://github.com/rodrigomoreir/rodrigomoreir/blob/main/developer-guide-blog-2.png" />
+<img width="auto" src="https://github.com/rodrigomoreir/rodrigomoreir/blob/main/devJS.jpg" />
 
 # Hi there, my name is Rodrigo Moreira 😁
 
