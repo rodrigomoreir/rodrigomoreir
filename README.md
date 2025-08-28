@@ -2,15 +2,14 @@
 
 # Hi there, my name is Rodrigo Moreira 😁
 
-Sou Desenvolvedor Mobile e utilizo o React Native e Swift (iOS)! 
-Muito interessado em aprender e
-Fascinado por desafios. :computer:
+I'm a Mobile Developer using React Native, Swift (iOS) and Java/Kotlin (Android)!
+I'm very interested in learning and fascinated by challenges. :computer:
 
- :rocket:  &nbsp; Estou trabalhando no **Banco ABC Brasil** como Desenvolvedor React Native
- <br/> :purple_heart: &nbsp; Buscando colaborar com projetos Mobile utilizando React Native e Swift (iOS).
- <br/> :computer: &nbsp; Minha Stack: ReactJS, Node.js, React Native & Swift (iOS).
- <br/> 💬  &nbsp; Sobre mim: Apaixonado por tecnologias, games, animes, filmes e seriados!
- <br/> :email: &nbsp; Para falar comigo:
+ :rocket:  &nbsp; I'm working at **Banco ABC Brasil** as a Mobile Software Engineer.
+ <br/> :purple_heart: &nbsp; Looking to collaborate on Mobile projects using React Native and Swift (iOS).
+ <br/> :computer: &nbsp; My Stack: ReactJS, Node.js, React Native, Swift (iOS) & Java/Kotlin (Android).
+ <br/> 💬  &nbsp; About me: Passionate about technology, games, anime, movies, and TV shows!
+ <br/> :email: &nbsp; To contact me:
  
  [![Linkedin Badge](https://img.shields.io/badge/-RodrigoMoreira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/rodrigo-moreira-mobile-dev) 
   | 
