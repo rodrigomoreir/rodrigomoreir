@@ -3,6 +3,7 @@
 # Hi there, my name is Rodrigo Moreira 😁
 
 I'm a Mobile Developer using React Native, Swift (iOS) and Java/Kotlin (Android)!
+
 I'm very interested in learning and fascinated by challenges. :computer:
 
  :rocket:  &nbsp; I'm working at **Banco ABC Brasil** as a Mobile Software Engineer.
